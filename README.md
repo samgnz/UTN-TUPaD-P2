@@ -10,6 +10,7 @@
 Este repositorio almacena todas los trabajos prácticos realizados durante la cursada de **Programación 2**.  
 
 📌 **Estructura del repositorio:**  
-- Cada trabajo está organizado en carpetas individuales.  
+- Cada trabajo práctico está organizado en carpetas individuales.  
+- Se busca mantener un código limpio, ordenado y bien documentado.
 
 
